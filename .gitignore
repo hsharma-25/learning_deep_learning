@@ -1,4 +1,5 @@
 .DS_Store
 *.py
-/data/
+*data/
 model_weights.pth
+*.pt
